@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <title>VIDEOS & IMAGES</title>
+    <body>
+        <h1>ADDING IMAGES</h1>
+        <img src="images/DFGSBDJ.jpg" height="" width="" alt="Demo Image" />
+        <img src="images/DHSHDS.jpg" height="600px" width="800px" alt="Demo Image" />
+        <img src="images/SDFHBS.jpg" height="" width="" alt="Demo Image" />
+        <h1>ADDING VIDEOS</h1>
+        <video src="Videos/123.mp4" controls height="" width=""> </video>
+        <br />
+        <video src="Videos/Anime.mp4" controls height="" width=""> </video>
+        <br />
+        <video src="Videos/ABC.mp4" controls height="" width=""> </video>
+        <br />
+        <video src="https://www.youtube.com/watch?v=xfysYVcAxGQ" controls height="" width=""> </video>
+    </body>
+</html>

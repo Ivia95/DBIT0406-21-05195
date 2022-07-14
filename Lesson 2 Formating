@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML</title>
+    </head>
+    <body>
+        <h1>TEXT FORMATING</h1>
+        <hr />
+        <p>
+        <b>BOLD</b><br />
+        <i>ITALIC</i><br />
+        <u>UNDERLINE</u>
+        <h2>HEADING 2</h2>
+        </p>
+     
+        <p>
+            Video provides a powerful way to help you prove your point.<br /> When you click Online Video, you can paste in the embed code for the video you want to add.<br /> You can also type a keyword to search online for the video that best fits your document.<br />To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other.<br /> For example, you can add a matching cover page, header, and sidebar.
+        </p>
+    
+        <pre>
+            Check this out
+        </pre>
+        <h3>SUPERSCRIPT & SUBSCRIPT</h3>
+        <P>
+            X<sup>2</sup>Log<sub>2</sub>10
+        </P>
+        <h4><b>SOLVE THE FOLLOWING</b><i>(10 Marks)</i></h4>
+        <body>Sum = X <sup>3</sup> + Y<sup>2</sup> - Log<sub>10</sub> 3</body>
+        <h3>Heading 3</h3>
+    </body>
+</html>
